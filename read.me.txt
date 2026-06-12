@@ -1,0 +1,9 @@
+student  / student123
+student1 / 123456
+student2 / 123456
+student3 / 123456
+student4 / 123456
+student5 / 123456
+
+
+admin  / admin123
